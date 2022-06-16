@@ -1,0 +1,8 @@
+python -m pip install pynput
+python -m pip install requests
+python -m pip install pywin32
+
+ dela
+
+Za svrhe testiranja potrebno je bilo uraditi yahoo posto gmail vise ne supporta 3rd party apps
+Sa yahoo akaountom generira se lozinka za aplikaciu
